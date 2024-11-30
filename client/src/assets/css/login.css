@@ -1,0 +1,38 @@
+.main_div{
+   background-image: url('../img/loginBg.jpg');
+   /* height: 100%;  */
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.second_div{
+    width: 30rem;
+	height: 100%;
+	box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);	
+	border-radius: 5px;
+    background-color: rgb(255 255 255 / 46%);
+	backdrop-filter: blur(5px);
+}
+
+.logo{
+    height: 4rem;
+    padding: 12px;
+    display: inline-block;
+}
+
+.heading1, .fourth_div, .para1, .logininput1{
+    height: auto;
+}
+
+/* .para1{
+    height: auto;
+}
+
+.logininput1{
+    height: auto;
+}
+
+.fourth_div{
+
+} */

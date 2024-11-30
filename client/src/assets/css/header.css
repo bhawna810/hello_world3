@@ -1,0 +1,32 @@
+.firstTopDiv{
+    height: auto;
+    position: sticky;
+    top: 0px;
+    /* background-color: white; */
+    z-index: 1000;
+    /* background-color: #8d8d8d03 */
+}
+
+.alldivHorizAlign{
+    display: flex;
+    align-Items: center;
+    margin-top: 6px;
+    font-size: 20px;
+}
+
+.commonstylemenu{
+    /* margin-left: 20px;
+    margin-left: 110px; */
+    padding-left: 110px
+}
+
+.commonlinkstyle{
+    text-decoration: none;
+    color: #585353;
+    color: #383333;
+}
+
+a:hover{
+    color: rgb(185 28 28);
+    font-size: 23px;
+}

@@ -1,0 +1,55 @@
+export { default as LoginBg } from "./img/loginBg.jpg";
+export { default as Logo } from "./img/logo.png";
+export { default as Avatar } from "./img/avatar.png";
+export { default as Mango } from "./img/mango.png";
+export { default as Delivery } from "./img/delivery.png";
+export { default as HeroBg } from "./img/heroBg.png";
+export { default as Bill } from "./img/bill.jpg";
+
+export { default as Chinese2 } from "./img/chinese2.png";
+export { default as Chinese3 } from "./img/chinese3.png";
+export { default as Chinese4 } from "./img/chinese4.png";
+export { default as Chinese6 } from "./img/chinese6.png";
+export { default as Curry1 } from "./img/curry1.png";
+export { default as Curry2 } from "./img/curry2.png";
+export { default as Curry3 } from "./img/curry3.png";
+export { default as Curry4 } from "./img/curry4.png";
+export { default as Curry5 } from "./img/curry5.png";
+export { default as Curry6 } from "./img/curry6.png";
+export { default as deserts1 } from "./img/deserts1.png";
+export { default as deserts2 } from "./img/deserts2.png";
+export { default as deserts3 } from "./img/deserts3.png";
+export { default as deserts4 } from "./img/deserts4.png";
+export { default as deserts5 } from "./img/deserts5.png";
+export { default as deserts6 } from "./img/deserts6.png";
+export { default as deserts7 } from "./img/deserts7.png";
+export { default as drink2 } from "./img/drink2.png";
+export { default as drink3 } from "./img/drink3.png";
+export { default as drink4 } from "./img/drink4.png";
+export { default as drink5 } from "./img/drink5.png";
+export { default as drink6 } from "./img/drink6.png";
+export { default as drink7 } from "./img/drink7.png";
+export { default as drink8 } from "./img/drink8.png";
+export { default as fish1 } from "./img/fish1.png";
+export { default as fish2 } from "./img/fish2.png";
+export { default as fish3 } from "./img/fish3.png";
+export { default as fish4 } from "./img/fish4.png";
+export { default as fish5 } from "./img/fish5.png";
+export { default as fruits2 } from "./img/fruits2.png";
+export { default as fruits3 } from "./img/fruits3.png";
+export { default as fruits4 } from "./img/fruits4.png";
+export { default as fruits5 } from "./img/fruits5.png";
+export { default as fruits6 } from "./img/fruits6.png";
+export { default as fruits7 } from "./img/fruits7.png";
+export { default as fruits8 } from "./img/fruits8.png";
+export { default as fruits9 } from "./img/fruits9.png";
+export { default as fruits10 } from "./img/fruits10.png";
+export { default as rice1 } from "./img/rice1.png";
+export { default as rice2 } from "./img/rice2.png";
+export { default as rice3 } from "./img/rice3.png";
+
+export {default as login} from "./css/login.css";
+export {default as home_1} from "./css/home_1.css";
+
+// export {default as logininput} from "./css/logininput.css"
+// export {default as header } from "./css/header.css";
